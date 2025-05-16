@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://newportfolio-tan-seven.vercel.app/](https://newportfolio-tan-seven.vercel.app/)
+- 👨‍💻 All of my projects are available at https://newportfolio-wvy3.vercel.app/
 
 - 💬 Ask me about **React**
 
